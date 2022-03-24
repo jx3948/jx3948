@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @JXmax
-- 👀 I’m interested in computer network
-- 🌱 I’m currently learning P4
-- 💞️ I’m looking to collaborate on ...
+- 👋 @JXmax
+- 👀 Computer Network / Industrial Network / DetNET
 - 📫 1925389797@qq.com
 
 <!---
