@@ -1,5 +1,5 @@
 - 👋 @JXmax
-- 👀 Computer Network / Industrial Network / DetNET
+- 👀 Computer Network / Industrial Network / DetNet
 - 📫 1925389797@qq.com
 
 <!---
